@@ -1,0 +1,1 @@
+javascript:(function(){window._ME.autoplayer.startTime=new Date()})();
